@@ -1,4 +1,1 @@
-GameDev
-=======
-
-main Game Develoment Repository
+Welcome to the Game Dev repository
